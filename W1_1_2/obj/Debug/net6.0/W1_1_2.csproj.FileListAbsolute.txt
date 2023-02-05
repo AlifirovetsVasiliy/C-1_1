@@ -1,0 +1,15 @@
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\W1_1_2.csproj.AssemblyReference.cache
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\W1_1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\W1_1_2.AssemblyInfoInputs.cache
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\W1_1_2.AssemblyInfo.cs
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\W1_1_2.csproj.CoreCompileInputs.cache
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\bin\Debug\net6.0\W1_1_2.exe
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\bin\Debug\net6.0\W1_1_2.deps.json
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\bin\Debug\net6.0\W1_1_2.runtimeconfig.json
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\bin\Debug\net6.0\W1_1_2.dll
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\bin\Debug\net6.0\W1_1_2.pdb
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\W1_1_2.dll
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\refint\W1_1_2.dll
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\W1_1_2.pdb
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\W1_1_2.genruntimeconfig.cache
+D:\git_AlifirovetsV2\С#1_1\L1_1\W1_1_2\obj\Debug\net6.0\ref\W1_1_2.dll
