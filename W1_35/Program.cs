@@ -16,21 +16,31 @@ int[] GetArray(int size, int minValue, int maxValue)
     return result;
 }
 
-int printArray(int[] inArray, int minNumber, int maxNumber)
+// int printArray(int[] inArray, int minNumber, int maxNumber)
+int printArray(int[] inArray)
 {
-    int resultNum = 0;
-    for (int i = 0; i < inArray.Length; i++)
+    int count = 0;
+    foreach (int item in inArray)
     {
-        if (inArray[i] >= minNumber && inArray[i] <= maxNumber)
+        if (item > 9 && item < 100)
         {
-            resultNum += 1;
+            count++;
         }
     }
-    return resultNum;
+    return count;
+
+    // for (int i = 0; i < inArray.Length; i++)
+    // {
+    //     if (inArray[i] >= minNumber && inArray[i] <= maxNumber)
+    //     {
+    //         resultNum += 1;
+    //     }
+    // }
+    // return resultNum;
 }
 
 int[] array = GetArray(123, 0, 300);
 Console.WriteLine(string.Join(", ", array));
-int resultN = printArray(array, 10, 99);
+int resultN = printArray(array);
 Console.WriteLine($"Колличество чисел в диапозоне значений от 10 до 99  равно {resultN}");
 
