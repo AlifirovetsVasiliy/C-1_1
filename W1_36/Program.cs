@@ -16,6 +16,7 @@ int[] GetArray(int size, int minValue, int maxValue)
 
     return result;
 }
+
 int SumArray(int[] array)
 {
     int result = 0;
